@@ -20,7 +20,7 @@ int main() {
         printf("I");
     }
     for (int i = esquerda; i < 5; i++) {
-        printf(" ");
+        printf("*");
     }
     printf("\n");
 
@@ -29,7 +29,7 @@ int main() {
         printf("I");
     }
     for (int i = direita; i < 5; i++) {
-        printf(" ");
+        printf("*");
     }
     printf("\n");
 
