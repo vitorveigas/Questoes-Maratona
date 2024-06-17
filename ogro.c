@@ -4,7 +4,7 @@
 
 int main() {
     int N;
-    printf("Digite o numero de dedos do ogro: \n");
+    
     scanf("%d", &N);
 
     if (N < 0 || N > 10) {
